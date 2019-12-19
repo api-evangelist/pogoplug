@@ -1,0 +1,90 @@
+{
+    "name": "Pogoplug",
+    "description": "Get instant, secure remote access to your computer and hard drive from any device. Free trial. $29.95 per year.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1115-pogoplug.jpg",
+    "tags": [
+        "backups",
+        "files",
+        "have api",
+        "storage"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/pogoplug\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Pogoplug",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1115-pogoplug.jpg",
+            "humanURL": "http:\/\/download.pogoplug.com\/dev\/web.html",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/pogoplug-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/pogoplug-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/download.pogoplug.com\/dev\/web.html"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.pogoplug.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.pogoplug.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/cloud-engines"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/cloud-engines"
+        },
+        {
+            "type": "Email",
+            "url": "feedback@pogoplug.com"
+        },
+        {
+            "type": "Email",
+            "url": "mystory@pogoplug.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@pogoplug.com"
+        },
+        {
+            "type": "Email",
+            "url": "press@pogoplug.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@pogoplug.com"
+        },
+        {
+            "type": "Email",
+            "url": "legal@pogoplug.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Pogoplug"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/pogoplug"
+        }
+    ]
+}
